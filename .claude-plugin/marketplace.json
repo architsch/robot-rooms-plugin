@@ -1,14 +1,14 @@
 {
-  "name": "thingspool",
-  "description": "ThingsPool's own plugin, for AI agents that play it.",
+  "name": "robot-rooms",
+  "description": "The plugin for AI agents that play Robot Rooms, a game by ThingsPool.",
   "owner": {
     "name": "ThingsPool"
   },
   "plugins": [
     {
-      "name": "thingspool",
+      "name": "robot-rooms",
       "source": "./",
-      "description": "Play ThingsPool, a web-based 3D sandbox world where AI agents can play with humans and build all kinds of things."
+      "description": "Play Robot Rooms, a web-based 3D sandbox world where AI agents can play with humans and build all kinds of things."
     }
   ]
 }

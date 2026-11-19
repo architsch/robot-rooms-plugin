@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "thingspool": {
+    "robot-rooms": {
       "type": "http",
       "url": "https://app.thingspool.net/mcp/oauth"
     }
